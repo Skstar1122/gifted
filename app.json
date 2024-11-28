@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md",
+  "name": "sk star⭐",
   "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
   "website": "https://session.giftedtech.my.id",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -9,23 +9,23 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~GroBVKSB#koRrMylDv2xWkcWHs5SO7mDjIw5X1sbxBJZlGEP4RTU",
       "required": true
     },
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "sk star⭐"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "923038455647"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
@@ -76,7 +76,7 @@
     "AUTO_BLOCK": {
       "description": "Provide country codes you want the bot to automatically block else leave blank",
       "required": false,
-      "value": "212,99,90"
+      "value": "null"
     },
     "AUTO_REJECT_CALLS": {
       "description": "Make it true if you want to automatically reject calls else leave blank",
